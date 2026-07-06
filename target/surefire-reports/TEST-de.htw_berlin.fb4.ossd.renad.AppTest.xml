@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="de.htw_berlin.fb4.ossd.renad.AppTest" time="0.02" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="de.htw_berlin.fb4.ossd.renad.AppTest" time="0.019" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="DE"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/25/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/renadalaswad/my-prose-app/target/surefire/surefirebooter-20260706141258600_3.jar /Users/renadalaswad/my-prose-app/target/surefire 2026-07-06T14-12-58_548-jvmRun1 surefire-20260706141258600_1tmp surefire_0-20260706141258600_2tmp"/>
+    <property name="sun.java.command" value="/Users/renadalaswad/my-prose-app/target/surefire/surefirebooter-20260706162908813_3.jar /Users/renadalaswad/my-prose-app/target/surefire 2026-07-06T16-29-08_757-jvmRun1 surefire-20260706162908813_1tmp surefire_0-20260706162908813_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/renadalaswad/my-prose-app/target/test-classes:/Users/renadalaswad/my-prose-app/target/classes:/Users/renadalaswad/.m2/repository/de/htw_berlin/fb4/ossd/prose_builder/1.0-0/prose_builder-1.0-0.jar:/Users/renadalaswad/.m2/repository/org/apache/logging/log4j/log4j-api/2.12.1/log4j-api-2.12.1.jar:/Users/renadalaswad/.m2/repository/org/apache/logging/log4j/log4j-core/2.12.1/log4j-core-2.12.1.jar:/Users/renadalaswad/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -28,7 +28,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/renadalaswad/my-prose-app/target/surefire/surefirebooter-20260706141258600_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/renadalaswad/my-prose-app/target/surefire/surefirebooter-20260706162908813_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25"/>
     <property name="user.name" value="renadalaswad"/>

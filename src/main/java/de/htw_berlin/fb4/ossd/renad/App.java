@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2026 Renad Al Aswad
+ *
+ * SPDX-License-Identifier: MIT
+ */
 package de.htw_berlin.fb4.ossd.renad;
 
 import de.htw_berlin.fb4.ossd.prose.ProseBuilder;
